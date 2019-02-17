@@ -1,0 +1,6 @@
+owner=510362500324130825
+prefix=%
+game=Badlion Client
+stayinchannel=true
+songinstatus=false
+token=NTQ2Njg5NTM3MTM3NzA0OTYw.D0r5ZA.jegXXTO-olzJ5fPRFbnT3jpUkUM
